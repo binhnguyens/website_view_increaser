@@ -10,5 +10,5 @@ EXE file included so you can execute the file and the pages will automatically o
 
 ## Final Remarks
 
-Download zip file to get executable file
+Download zip file to get executable file <br>
 If using a windows computer, add the ".exe" extention to the file
