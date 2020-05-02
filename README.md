@@ -6,4 +6,9 @@ Adjust website.txt with webpages to refresh
 
 EXE file included so you can execute the file and the pages will automatically open and refresh to increase view count
 
-# Goal is to automate opening and refreshing of articles/videos to increase viewcount
+## Goal is to automate opening and refreshing of articles/videos to increase viewcount
+
+## Final Remarks
+
+Download zip file to get executable file
+If using a windows computer, add the ".exe" extention to the file
